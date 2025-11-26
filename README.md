@@ -10,9 +10,9 @@
 
 <div>
   <a href="https://github.com/Arthzin5567">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthzin5567&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arthzin5567&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthzin5567&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthzin5567&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arthzin5567&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthzin5567&theme=github_dark" />
 </div>
     
 <div style="display: inline_block"><br>
