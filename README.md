@@ -5,7 +5,7 @@
 - 🌱 Estudando na faculdade C, SQL, Java, HTML e CSS. Já vi Java, HTML, SQL e PHP antes no meu curso técnico em informática.
 - Estudando sozinho GML (linguagem do GameMaker Studio2), GD Script (Linguagem de programação da Godot Engine) e C#
 - 🐧 Migrei para o Linux, possuindo o Pop!_OS no meu PC principal, já tive Linux Mint no meu notebook, agora possuo Arch Linux com Hyprland em dualboot com Ubuntu Server.
-- Fiz um servidor home usando meu notebook "velho", só pra testar. Usei o Ubuntu Server e coloquei a interface do Gnome nele. Ele possui configurado nele o Crafty, File browser Portainer.io.
+- Fiz um servidor home usando meu notebook "velho", só pra testar. Usei o Ubuntu Server e coloquei a interface do Gnome nele. Ele possui configurado nele o Crafty, File browser, Portainer.io e o PI-Hole.
 - ⚡ Fun fact: só falta entregar o relatório do meu estágio pra eu conseguir meu diploma de técnico em informática
 
 <div>
