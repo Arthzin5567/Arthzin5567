@@ -1,10 +1,11 @@
 ## Eai?
 
 ### Apesar do nickname de vídeo game no meu usuário, meu nome é Arthur. É um prazer!
-- 🔭 Hoje sou estudante universitário de ciências da computação e possuo conhecimentos básicos de informática
-- 🌱 Dentro da faculdade estou estudando C, SQL, Java, HTML e CSS. Já vi Java, HTML, SQL e PHP antes no meu curso técnico. Mas por fora eu estou estudando GML (linguagem do GameMaker Studio2). Pretendo aprender C# algum dia, já que é a linguagem da Unity.
+- 🔭 Estudante universitário de ciências da computação e possuo conhecimentos básicos de informática
+- 🌱 Estudando na faculdade C, SQL, Java, HTML e CSS. Já vi Java, HTML, SQL e PHP antes no meu curso técnico em informática.
+- Estudando sozinho GML (linguagem do GameMaker Studio2), GD Script (Linguagem de programação da Godot Engine) e C#
 - 🐧 Migrei quase totalmente pro Linux, uso o Pop!_OS no meu PC principal e o Linux Mint no meu notebook.
-- Fiz um servidor caseiro usando meu notebook "velho", só pra testar. Usei o Ubuntu Server e coloquei a interface do Gnome nele. Ele roda um servidor de minecraft no paper tranquilamente.
+- Fiz um servidor home usando meu notebook "velho", só pra testar. Usei o Ubuntu Server e coloquei a interface do Gnome nele. Ele possui configurado nele o Crafty, File browser Portainer.io.
 - ⚡ Fun fact: só falta entregar o relatório do meu estágio pra eu conseguir meu diploma de técnico em informática
 
 <div>
